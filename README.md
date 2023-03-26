@@ -1,4 +1,4 @@
-# Covid-End-to-End-Data-Analysis-project-on-AWS
+# Covid_19-Data_Engineering-End-to-End-Data-Analysis-project-on-AWS
 
 ### Steps floowed:
 ##### Data Collection:
