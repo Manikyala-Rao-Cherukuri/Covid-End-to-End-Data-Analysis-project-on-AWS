@@ -20,3 +20,4 @@ Analyze the data in the data warehouse using SQL queries to generate insights ab
 Use visualization tools such as Tableau or Power BI to create charts and graphs that summarize the findings.
 Share the insights with stakeholders in the business to help inform decisions related to COVID-19.
 #### Skill/ Tools Used: Python, Postgre SQL, ETL, Building Data Models & AWS - Athena, Glue, Redshift, S3, IAM
+![image](https://github.com/Manikyala-Rao-Cherukuri/Covid-End-to-End-Data-Analysis-project-on-AWS/assets/119756215/7331dbe3-befa-418d-b3c7-f597eb08b36c)
